@@ -1,0 +1,7 @@
+# Dépendances nécessaires pour exécuter une application FastAPI avec un modèle TensorFlow et un serveur de production Gunicorn
+fastapi==0.68.1
+uvicorn==0.15.0
+tensorflow==2.13.0
+pydantic==1.8.2
+numpy
+gunicorn
