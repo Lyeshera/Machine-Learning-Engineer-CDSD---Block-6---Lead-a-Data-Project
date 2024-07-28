@@ -1,0 +1,11 @@
+requests
+pandas
+numpy
+ta
+scikit-learn
+statsmodels
+plotly
+streamlit
+fastapi==0.68.1
+uvicorn==0.15.0
+gunicorn
